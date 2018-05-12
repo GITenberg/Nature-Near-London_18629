@@ -1,0 +1,35 @@
+_repo: Nature-Near-London_18629
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jefferies, Richard
+    alias: Jefferies, John Richard
+    birthdate: 1848
+    deathdate: 1887
+    gutenberg_agent_id: '229'
+    url: http://www.gutenberg.org/2009/agents/229
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Jefferies
+description: When Jefferies moved to the outskirts of London to be closer to the hub
+  of literary England, he was surprised to discover an abundance of wildlife in the
+  area. Nature Near London is a collection of his essays exulting in the pleasures
+  of the region's natural world and rich landscape from herbs and trees to birds and
+  the breeze.
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2006-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18629'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nature study'
+- !lcc 'QH'
+- !lcsh 'Natural history -- Outdoor books'
+- !lcsh 'Country life -- England'
+title: Nature Near London
+url: http://www.gutenberg.org/ebooks/18629
